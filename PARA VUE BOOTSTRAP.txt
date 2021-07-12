@@ -1,0 +1,4 @@
+npm i --save-dev bootstrap@next bootstrap-loader tether jquery
+import 'bootstrap/dist/css/bootstrap.css'
+
+npm install --save resolve-url-loader --dev
